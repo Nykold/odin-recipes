@@ -1,0 +1,1 @@
+Work for an assignment for The Odin Project: "Recipes". Used to train HTML.
