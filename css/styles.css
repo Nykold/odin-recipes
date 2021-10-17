@@ -1,0 +1,28 @@
+h1,
+h2 {
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: darkcyan;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.text {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    background-color: beige;
+    text-align: justify;
+}
+
+.header {
+    height: auto;
+    width: 300px;
+}
